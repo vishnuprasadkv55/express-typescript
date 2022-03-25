@@ -17,8 +17,9 @@ A robust code structure for express + typescript projects.
 
 ### Installing
 
-* ```
+```
 npm install
+```
 
 
 ### Executing program

@@ -1,4 +1,4 @@
-# Project Title
+# Express + Typescript Base
 
 Express + typescript starter pack. 
 
